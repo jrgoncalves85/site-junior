@@ -17,7 +17,7 @@ header {
     background-color: #fff;
     padding-top: 45px;
     width: 1000px;
-    margin: 0 auto;
+    margin: auto;
 }
 .logo {
     float: left;
@@ -31,7 +31,7 @@ nav ul li {
 }
 nav ul li a {
     color: #666;
-    font-size: 1.5em;
+    font-size: 18px;
 	text-align: right;
     text-transform: uppercase;
 	text-decoration: none;
@@ -48,7 +48,7 @@ nav ul li a:hover {
 }
 .sobre {
     width: 1000px;
-    margin: 0 auto;
+    margin: auto;
 }
 .texto {
     width: 460px;
@@ -57,14 +57,14 @@ nav ul li a:hover {
 }
 h1 {
     font-family: 'Kaushan Script';
-    font-size: 5em;
+    font-size: 60px;
     padding-top: 80px;
     letter-spacing: 3px;
 }
 h2 {
-    font-weight: 400;
-    font-size: 1.7em;
-    line-height: 1.7em;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
     margin: 30px 0;
 }
 .icons img {
@@ -74,7 +74,7 @@ h2 {
     float: right;
 }
 .foto img {
-    border-radius: 50%;
+    border-radius: 180px;
     margin: 60px 0;
 }
 #destaques {
@@ -85,7 +85,7 @@ h2 {
 }
 .colunas {
     width: 1100px;
-    margin: 0 auto;
+    margin: auto;
 }
 .coluna {
     width: 320px;
@@ -98,8 +98,8 @@ h2 {
 }
 .legenda {
     text-transform: uppercase;
-	font-weight: 700;
-	font-size: 1.4em;
+	font-weight: bold;
+	font-size: 18px;
 	color: #333333;
     margin: 10px 0;
 }
@@ -108,7 +108,7 @@ h2 {
 }
 .conteudo {
     width: 1000px;
-    margin: 0 auto;
+    margin: auto;
     padding: 40px 0;
 }
 .galeria { 
@@ -118,13 +118,13 @@ h2 {
     margin: 12px;
 }
 h3 {
-    font-size: 2em;
+    font-size: 24px;
     color: #fff;
     margin: 1px 20px 25px;
     font-style: italic;
 }
 article {
-    width: 70%;
+    width: 700px;
     float: left;
 }
 article h3 {
@@ -132,12 +132,12 @@ article h3 {
 }
 article p {
     color: #fff;
-    font-size: 1.5em;
+    font-size: 18px;
     text-indent: 50px;
-    line-height: 1.5em; 
+    line-height: 28px; 
 }
 aside {
-    width: 25%;
+    width: 250px;
     float: right;
 }
 aside h3 {
@@ -145,8 +145,8 @@ aside h3 {
 }
 details {
     color: #fff;
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 18px;
+    line-height: 28px;
     margin-bottom: 15px;
 }
 footer{
@@ -156,6 +156,6 @@ footer{
 }
 footer p {
     text-align: center;
-    font-size:1.4em;
+    font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
 }
