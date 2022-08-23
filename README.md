@@ -3,10 +3,10 @@ Projeto de Site Pessoal desenvolvido em HTML5 e CSS3 para as aulas de Programaç
 
 ### Etec João Maria Stevanatto - Itapira/SP
 Curso: ETIM Desenvolvimento de Sistema - 1ºC (2022)
-
-### Professor Júnior Gonçalves
-[Hiperbytes](https://hiperbytes.com.br/)
+[Professor Júnior Gonçalves](https://hiperbytes.com.br/)
 
 ### Tecnologias utilizadas 
 * HTML5
 * CSS3
+
+![Print do projeto](https://uploaddeimagens.com.br/imagens/6Hdy3Ec)

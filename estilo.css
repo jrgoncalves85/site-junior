@@ -1,16 +1,9 @@
-/*
-    Folha de estilo para site pessoal
-    Desenvolvedor: Júnior Gonçalves
-    Data: 05/01/2022
-*/
-
 * {
     margin: 0;
     padding: 0;
 }
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
 }
 header {
     height: 100px;
@@ -79,12 +72,11 @@ h2 {
     margin: 60px 0;
 }
 #destaques {
-    clear: both;
     background-color: #ccd3db;
     height: 440px;
     padding: 40px 0 25px;
 }
-.colunas {
+.linha {
     width: 1100px;
     margin: auto;
 }
@@ -92,19 +84,19 @@ h2 {
     width: 320px;
     padding: 13px;
     float: left;
-    text-align: center;
     background-color: #fff;
     border-radius: 15px;
     margin: 40px 10px;
 }
 .legenda {
     text-transform: uppercase;
+    text-align: center;
 	font-weight: bold;
 	font-size: 18px;
-	color: #333333;
+	color: #333;
     margin: 10px 0;
 }
-footer{
+footer {
     color: #fff;
     background-color: #333;
     padding: 40px 0 30px;
@@ -112,7 +104,7 @@ footer{
 footer p {
     text-align: center;
     font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
 }
 
 /* Páginas internas */
